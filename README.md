@@ -2,7 +2,7 @@
 
 A full stack event booking platform. Organizers create events, users book tickets and get a **unique QR code per seat**, and organizers **scan the QR at the venue gate** to check attendees in. Fake, cancelled and already-used tickets are rejected.
 
-**🔗 Live demo:** https://YOUR-APP.vercel.app · **API docs:** https://YOUR-APP.onrender.com/swagger-ui.html
+**🔗 Live demo:** https://eventhub-six-umber.vercel.app · **API docs:** https://eventhub-api-qxo7.onrender.com/swagger-ui.html
 <sub>(Free hosting: the first request may take ~1 minute while the backend wakes up.)</sub>
 
 📄 [Deployment guide](DEPLOYMENT.md) · 🎤 [Interview notes](INTERVIEW_NOTES.md)
